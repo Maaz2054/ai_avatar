@@ -1,0 +1,35 @@
+{
+  "name": "avatar-ai-project",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "@ai-sdk/groq": "^3.0.15",
+    "@ai-sdk/openai": "^3.0.7",
+    "@heygen/liveavatar-web-sdk": "^0.0.10",
+    "ai": "^6.0.27",
+    "groq-sdk": "^0.37.0",
+    "livekit-client": "^2.16.1",
+    "next": "^16.1.6",
+    "openai": "^6.16.0",
+    "react": "19.2.3",
+    "react-dom": "19.2.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "autoprefixer": "^10.4.23",
+    "eslint": "^9",
+    "eslint-config-next": "16.1.1",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.18",
+    "typescript": "^5"
+  }
+}

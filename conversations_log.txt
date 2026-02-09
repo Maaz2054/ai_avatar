@@ -1,0 +1,410 @@
+[03/01/2026 18:47:30] bonjour ça va vous allez bien
+[03/01/2026 18:47:30] bonjour ça va vous allez bien
+[03/01/2026 18:47:44] Hi how are you doing
+[03/01/2026 18:47:54] but
+[03/01/2026 19:29:46] bonjour Est-ce que vous arrivez bien longtemps
+[03/01/2026 19:29:47] bonjour Est-ce que vous arrivez bien longtemps
+[03/01/2026 19:31:33] can you hear me
+[03/01/2026 19:31:39] yes I can how can I assist you
+[03/01/2026 19:31:45] come on Facebook
+[03/01/2026 19:31:54] Jennifer pie accident Facebook
+[03/01/2026 19:31:58] you should have lost everything
+[03/01/2026 19:32:04] why do you think that
+[03/01/2026 19:32:09] could you clarify what you're referring to
+[03/01/2026 19:38:39] bonjour vous
+[03/01/2026 19:38:41] bonjour vous allez bien est-ce que vous arrivez bien à m'entendre
+[03/01/2026 19:39:06] gpt5
+[2026-01-03 19 h 58 min 14 s] bonjour comment allez-vous est-ce que vous arrivez à m'entendre
+[2026-01-03 19 h 58 min 15 s] bonjour comment allez-vous est-ce que vous arrivez à m'entendre
+[2026-01-03 19 h 58 min 39 s] so can you hear me in English
+[2026-01-03 19 h 58 min 52 s] yes I can hear you how can I assist you
+[2026-01-03 20 h 21 min 24 s] allô bonjour ça va bien est-ce que vous arrivez à m'entendre
+[2026-01-03 20 h 21 min 39 s] m'entendre
+[2026-01-03 20 h 21 min 45 s] je te souhaite-tu dire ou exprimer
+[2026-01-03 20 h 21 min 50 s] on dit je te souhaite
+[2026-01-03 20 h 21 min 54 s] the correct on
+[2026-01-03 20 h 22 min 01 s] can you hear me could you please clarify can you hear me where
+[2026-01-03 20 h 22 min 07 s] I can understand you but I can't hear you how
+[2026-01-03 20 h 22 min 13 s] escucharme
+[2026-01-03 20 h 22 min 18 s] ayudarte
+[2026-01-03 20 h 22 min 26 s] en Montreal
+[2026-01-03 20 h 22 min 37 s] en moreal
+[2026-01-03 20 h 22 min 46 s] podemos hablar español por favor
+[2026-01-03 20 h 22 min 53 s] ayudar
+[2026-01-03 20 h 22 min 57 s] quiero
+[2026-01-03 20 h 23 min 01 s] es complica
+[2026-01-03 20 h 23 min 07 s] se refieres a algo
+[2026-01-03 20 h 23 min 12 s] podemos hablar razas
+[2026-01-03 20 h 23 min 19 s] hablar
+[2026-01-03 20 h 23 min 26 s] vale
+[2026-01-03 20 h 23 min 31 s] que esto aquí
+[2026-01-03 20 h 23 min 39 s] ayudarte
+[2026-01-03 20 h 23 min 44 s] ayuda
+[2026-01-03 20 h 23 min 49 s] quiero quiero
+[2026-01-03 20 h 23 min 55 s] qué deseas saber
+[2026-01-03 20 h 23 min 58 s] mi lengua
+[2026-01-03 20 h 24 min 03 s] lengua
+[03/01/2026 20:32:49] UTILISATEUR : bonjour Est-ce que vous allez bien vous arrivez à m'entendre
+[03/01/2026 20:32:50] UTILISATEUR : bonjour Est-ce que vous allez bien vous arrivez à m'entendre
+[03/01/2026 20:32:51] AVATAR : Bonjour ! Oui, je vous entends bien. Comment puis-je vous aider ?
+[03/01/2026 20:32:51] AVATAR : Bonjour ! Oui, je vous entends bien. Comment puis-je vous aider ?
+[03/01/2026 20:33:24] UTILISATEUR : est-ce que vous pouvez me présenter les endroits que je pourrais visiter ici à Montréal
+[03/01/2026 20:33:25] AVATAR : Bien sûr ! Visitez le Vieux-Montréal, le Mont-Royal, le Musée des beaux-arts et le Jardin botanique.
+[03/01/2026 20:33:34] UTILISATEUR : bien sûr visiter le Vieux-Montréal le Mont-Royal le Musée des beaux-arts et le jardin botanique
+[03/01/2026 20:33:35] AVATAR : Excellents choix ! Profitez de la culture et de la nature à Montréal
+[03/01/2026 20:33:42] UTILISATEUR : excellent choix vitesse de la culture et de la nature à Montréal
+[03/01/2026 20:33:43] AVATAR : Merci ! Montréal offre un bel équilibre entre culture et nature.
+[03/01/2026 20:33:45] UTILISATEUR : super
+[03/01/2026 20:33:45] AVATAR : Merci ! Que puis-je faire pour vous ?
+[03/01/2026 20:33:51] UTILISATEUR : est-ce qu'il y a d'autres endroits proposés est-ce qu'il y a d'autres endroits proposés
+[03/01/2026 20:33:51] AVATAR : Oui, il existe plusieurs autres destinations suggérées.
+[03/01/2026 20:33:58] UTILISATEUR : oui il existe plusieurs autres destinations suggérées
+[03/01/2026 20:33:58] AVATAR : Quelles destinations t'intéressent particulièrement ?
+[03/01/2026 20:34:04] UTILISATEUR : carte destination c'est intéressant particulièrement
+[03/01/2026 20:34:05] AVATAR : Oui, les cartes de destination offrent des expériences uniques et enrichissantes.
+[04/01/2026 13:03:12] UTILISATEUR : salut salut
+[04/01/2026 13:03:13] UTILISATEUR : salut salut
+[04/01/2026 13:03:13] AVATAR : Salut ! Comment ça va ?
+[04/01/2026 13:03:16] AVATAR : Salut ! Comment ça va ?
+[04/01/2026 13:03:31] UTILISATEUR : ça va très bien et toi
+[04/01/2026 13:03:33] AVATAR : Je vais bien, merci !
+[04/01/2026 13:03:36] UTILISATEUR : je vais bien
+[04/01/2026 13:03:37] UTILISATEUR : je vais bien
+[04/01/2026 13:03:38] AVATAR : C'est super à entendre !
+[04/01/2026 13:03:38] AVATAR : C'est super ! Que souhaites-tu faire aujourd'hui ?
+[04/01/2026 13:03:41] UTILISATEUR : c'est c'est quoi comme modèle
+[04/01/2026 13:03:41] AVATAR : Peux-tu préciser de quel modèle tu parles ?
+[04/01/2026 13:03:46] UTILISATEUR : c'est quoi comme modèle peux-tu préciser de quelle
+[04/01/2026 13:03:48] AVATAR : Je suis un modèle d'IA développé par OpenAI, basé sur GPT-4.
+[04/01/2026 13:03:52] UTILISATEUR : je suis un modèle
+[04/01/2026 13:03:54] AVATAR : C'est super ! Dans quel domaine es-tu modèle ?
+[04/01/2026 13:03:57] UTILISATEUR : est-ce qu'on était euh ouais ouais ouais
+[04/01/2026 13:03:57] AVATAR : Peux-tu préciser ta question, s'il te plaît ?
+[04/01/2026 13:04:04] UTILISATEUR : parle-moi de préciser ta question parle-moi de la Coupe d'Afrique des nations 2025
+[04/01/2026 13:04:05] AVATAR : La Coupe d'Afrique des nations 2025 se déroulera en Côte d'Ivoire.
+[04/01/2026 13:04:13] UTILISATEUR : Afrique des nations 2025 se déroulera en Côte d'Ivoire
+[04/01/2026 13:04:13] AVATAR : Oui, la Côte d'Ivoire accueillera la CAN 2025.
+[04/01/2026 13:04:16] UTILISATEUR : oui
+[04/01/2026 13:04:16] AVATAR : Bonjour ! Comment puis-je vous aider aujourd'hui ?
+[04/01/2026 13:04:19] UTILISATEUR : je ne
+[04/01/2026 13:04:21] AVATAR : Que puis-je faire pour vous aider ?
+[04/01/2026 13:04:24] UTILISATEUR : pour vous
+[04/01/2026 13:06:35] UTILISATEUR : bonjour
+[04/01/2026 13:06:36] UTILISATEUR : bonjour
+[04/01/2026 13:06:36] AVATAR : Bonjour ! Comment puis-je vous aider aujourd'hui ?
+[04/01/2026 13:06:36] AVATAR : Bonjour ! Comment puis-je vous aider aujourd'hui ?
+[04/01/2026 13:07:33] UTILISATEUR : ça va très bien et vous
+[04/01/2026 13:07:33] AVATAR : Je vais bien, merci !
+[04/01/2026 13:07:40] UTILISATEUR : vous êtes quel modèle
+[04/01/2026 13:07:41] AVATAR : Je suis un modèle de langage développé par OpenAI.
+[04/01/2026 13:07:52] UTILISATEUR : c'est quoi le numéro du modèle
+[04/01/2026 13:07:52] AVATAR : Pouvez-vous préciser de quel produit ou appareil vous parlez ?
+[04/01/2026 13:08:02] UTILISATEUR : non je parle du modèle de développer par opene
+[04/01/2026 13:08:03] AVATAR : Peux-tu préciser de quel modèle tu parles ?
+[04/01/2026 13:08:13] UTILISATEUR : je parle du modèle développé par openeye
+[04/01/2026 13:08:13] AVATAR : Peux-tu préciser de quel modèle il s'agit ?
+[04/01/2026 13:08:21] UTILISATEUR : chagrité
+[04/01/2026 13:08:22] AVATAR : Le terme "chagrité" est souvent utilisé pour désigner une personne qui est en colère.
+[04/01/2026 13:08:32] UTILISATEUR : je parle de Shadi PPT
+[04/01/2026 13:08:33] AVATAR : Peux-tu préciser ce que tu veux sur Shadi PPT ?
+[04/01/2026 13:08:41] UTILISATEUR : non je parle de ça j'ai pété
+[04/01/2026 13:08:42] AVATAR : Pas de souci, ça arrive à tout le monde !
+[04/01/2026 13:08:42] UTILISATEUR : non je parle de ça j'ai pété
+[04/01/2026 13:08:43] AVATAR : Pas de souci, ça arrive à tout le monde !
+[04/01/2026 14:25:45] UTILISATEUR : Bonjour
+[04/01/2026 14:25:46] UTILISATEUR : Bonjour
+[04/01/2026 14:25:53] AVATAR : Bonjour ! Comment puis-je vous aider ?
+[04/01/2026 14:26:00] AVATAR : Bonjour ! Comment puis-je vous aider aujourd'hui ?
+[04/01/2026 14:26:34] UTILISATEUR : Bonjour est-ce que vous arrivez à m'entendre
+[04/01/2026 14:26:35] UTILISATEUR : Bonjour est-ce que vous arrivez à m'entendre
+[04/01/2026 14:26:36] AVATAR : Bonjour ! Oui, je vous entends. Comment puis-je vous aider ?
+[04/01/2026 14:26:43] AVATAR : Bonjour ! Oui, je vous entends. Que puis-je faire pour vous ?
+[04/01/2026 14:26:49] UTILISATEUR : Est-ce que vous arrivez à m'entendre
+[04/01/2026 14:26:51] UTILISATEUR : Bonjour est-ce que vous arrivez à Montendre
+[04/01/2026 14:26:52] UTILISATEUR : Bonjour est-ce que vous arrivez à Montendre
+[04/01/2026 14:26:54] AVATAR : Bonjour ! Oui, je peux vous aider avec des informations sur Montendre.
+[04/01/2026 14:27:01] AVATAR : Oui, je vous entends. Que puis-je faire pour vous ?
+[04/01/2026 14:27:08] AVATAR : Bonjour ! Je ne peux pas me déplacer, mais je peux vous aider.
+[04/01/2026 14:27:09] UTILISATEUR : Bonjour est-ce que vous arrivez à m'entendre
+[04/01/2026 14:27:11] AVATAR : Bonjour ! Oui, je vous entends. Comment puis-je vous aider ?
+[04/01/2026 14:27:17] UTILISATEUR : Bonjour est-ce que vous arrivez à m'entendre
+[04/01/2026 14:27:24] AVATAR : Bonjour ! Oui, je vous entends. Que puis-je faire pour vous ?
+[04/01/2026 15:38:15] UTILISATEUR : Hello
+[04/01/2026 15:38:16] UTILISATEUR : Hello
+[04/01/2026 15:38:16] AVATAR : Hello! How can I assist you today?
+[04/01/2026 15:38:17] AVATAR : Hello! How can I assist you today?
+[04/01/2026 15:39:17] UTILISATEUR : mais
+[04/01/2026 15:39:19] AVATAR : Que souhaites-tu savoir ou discuter ?
+[04/01/2026 15:39:28] UTILISATEUR : what's the name of this
+[04/01/2026 15:39:29] AVATAR : Could you provide more context or details?
+[04/01/2026 15:39:31] UTILISATEUR : hear me
+[04/01/2026 15:39:31] AVATAR : I hear you! How can I assist you?
+[04/01/2026 15:39:40] UTILISATEUR : where can I eat in Montreal
+[04/01/2026 15:39:42] AVATAR : Try Schwartz's Deli or La Banquise for great local!
+[04/01/2026 15:39:50] UTILISATEUR : yeah she says
+[04/01/2026 15:39:52] AVATAR : What does she say?
+[04/01/2026 15:39:59] UTILISATEUR : those are kind of a quick spot today if she can give you more choices
+[04/01/2026 15:40:00] AVATAR : Could you clarify what choices you need?
+[04/01/2026 15:40:03] UTILISATEUR : where are the things to see in Montreal
+[04/01/2026 15:40:05] AVATAR : Visit Old Montreal, Mount Royal, and the Montreal Museum of Fine Arts.
+[04/01/2026 15:40:08] UTILISATEUR : I
+[04/01/2026 15:40:09] AVATAR : Hello! How can I assist you today?
+[04/01/2026 15:40:21] UTILISATEUR : but yeah she told me the museum plateau
+[04/01/2026 15:40:21] AVATAR : Could you clarify what you mean by "museum plateau"?
+[04/01/2026 15:40:28] UTILISATEUR : and what's your idea like you want to have her to
+[04/01/2026 15:40:28] AVATAR : Could you clarify your question, please?
+[04/01/2026 15:40:32] UTILISATEUR : iPod
+[04/01/2026 15:40:32] AVATAR : L'iPod est un lecteur de musique portable développé par Apple.
+[04/01/2026 15:40:37] UTILISATEUR : doing nice chips when there is nobody
+[04/01/2026 15:40:38] AVATAR : Enjoy your peaceful time making chips!
+[04/01/2026 15:40:47] UTILISATEUR : questions regarding the hostel regarding everything around
+[04/01/2026 15:40:48] AVATAR : Please specify your questions about the hostel and its surroundings.
+[04/01/2026 15:40:57] UTILISATEUR : no way it's definitely did his nobody there no it's cool
+[04/01/2026 15:40:58] UTILISATEUR : no way it's definitely did his nobody there no it's cool
+[04/01/2026 15:40:58] AVATAR : Could you clarify your message?
+[04/01/2026 15:40:59] AVATAR : Could you please clarify your statement?
+[04/01/2026 15:41:05] UTILISATEUR : that's crazy
+[04/01/2026 15:41:05] AVATAR : I know, right? What specifically do you find crazy?
+[04/01/2026 15:41:15] UTILISATEUR : I just like you go to school and work and where do you get that free time to think about this thing again
+[04/01/2026 15:41:15] AVATAR : Finding free time can be challenging; I prioritize tasks and manage my schedule.
+[04/01/2026 15:41:21] UTILISATEUR : it's old Jody day everyday working more than 6 7 hours
+[04/01/2026 15:41:22] AVATAR : Sounds tiring! Make sure to take breaks and rest.
+[04/01/2026 15:41:27] UTILISATEUR : psychology and codeine codeine all the time
+[04/01/2026 15:41:28] AVATAR : Codeine can affect mental health; consult a professional for guidance.
+[04/01/2026 15:41:31] UTILISATEUR : that's crazy
+[04/01/2026 15:41:31] AVATAR : I know, right? What's on your mind?
+[04/01/2026 15:41:37] UTILISATEUR : hey hit me with codeine and everything is awesome
+[04/01/2026 15:41:37] AVATAR : Sounds like you're feeling good! Stay safe and take care.
+[04/01/2026 15:41:43] UTILISATEUR : to my son
+[04/01/2026 15:41:43] AVATAR : What would you like to say to your son?
+[04/01/2026 15:41:47] UTILISATEUR : 100% stable right now
+[04/01/2026 15:41:47] AVATAR : C'est super ! Profitez de cette stabilité.
+[04/01/2026 15:42:02] UTILISATEUR : where do I live or where does she leave
+[04/01/2026 15:42:02] AVATAR : Please provide more context or specify whose location you're inquiring about.
+[04/01/2026 15:42:05] UTILISATEUR : can you hear me
+[04/01/2026 15:42:06] AVATAR : I can't hear you, but I can read your messages.
+[04/01/2026 15:42:09] UTILISATEUR : where do you live
+[04/01/2026 15:42:09] AVATAR : I don't have a physical location; I'm a virtual assistant.
+[04/01/2026 15:42:23] UTILISATEUR : and how old are you
+[04/01/2026 15:42:24] AVATAR : Je suis un programme, donc je n'ai pas d'âge.
+[04/01/2026 15:42:28] UTILISATEUR : happy birthday to me
+[04/01/2026 15:42:29] AVATAR : Happy birthday! Enjoy your special day!
+[04/01/2026 15:42:32] UTILISATEUR : what do you say
+[04/01/2026 15:42:33] AVATAR : I can assist you with questions or information. What do you need?
+[04/01/2026 15:42:36] UTILISATEUR : show me happy birthday
+[04/01/2026 15:42:38] AVATAR : Happy Birthday! Wishing you joy and celebration on your special day!
+[04/01/2026 15:42:40] UTILISATEUR : how old are you
+[04/01/2026 15:42:41] AVATAR : I don't have an age; I'm a computer program.
+[04/01/2026 15:42:45] UTILISATEUR : it's not my birthday
+[04/01/2026 15:42:46] AVATAR : Got it! Let me know if you need anything else.
+[04/01/2026 15:43:04] UTILISATEUR : she's very cold with me do something called prompt engineering yeah and this prompting unit for example when you ask some big question to the AI
+[04/01/2026 15:43:05] UTILISATEUR : she's very cold with me do something called prompt engineering and this prompting unit for example when you ask some big question to the AI
+[04/01/2026 15:43:06] AVATAR : Try asking her directly about her feelings or concerns. Communication is key.
+[04/01/2026 15:43:07] AVATAR : Try asking her directly about her feelings to understand better.
+[04/01/2026 15:43:11] UTILISATEUR : garbage the question
+[04/01/2026 15:43:12] AVATAR : Please clarify or rephrase your question.
+[04/01/2026 16:55:00] UTILISATEUR : Ça va vous allez bien est-ce que vous arrivez à m'entendre
+[04/01/2026 16:55:01] UTILISATEUR : Ça va vous allez bien est-ce que vous arrivez à m'entendre
+[04/01/2026 16:55:02] AVATAR : Oui, ça va, merci ! J'entends bien. Vous, ça va ?
+[04/01/2026 16:55:03] AVATAR : Oui, ça va, je vous entends bien.
+[04/01/2026 16:55:41] UTILISATEUR : Est-ce que vous pouvez m'indiquer vous êtes qui
+[04/01/2026 16:55:42] UTILISATEUR : Est-ce que vous pouvez m'indiquer vous êtes qui
+[04/01/2026 16:55:42] AVATAR : Je suis un assistant virtuel ici pour vous aider.
+[04/01/2026 16:55:43] AVATAR : Je suis un assistant virtuel ici pour vous aider.
+[04/01/2026 16:55:59] UTILISATEUR : Est-ce que vous vous êtes de quel modèle
+[04/01/2026 16:56:00] UTILISATEUR : Est-ce que vous êtes de quel modèle
+[04/01/2026 16:56:00] AVATAR : Je suis un modèle de langage développé parAI.
+[04/01/2026 16:56:01] AVATAR : Je suis un modèle d'intelligence artificielle développé par OpenAI.
+[04/01/2026 16:56:12] UTILISATEUR : Vous êtes quel modèle
+[04/01/2026 16:56:12] AVATAR : Je suis un modèle d'intelligence artificielle développé par OpenAI.
+[04/01/2026 17:07:08] UTILISATEUR : iPad
+[04/01/2026 17:07:09] AVATAR : Quel aspect de l'iPad t'intéresse-t-il ?
+[04/01/2026 17:07:19] UTILISATEUR : Bonjour
+[04/01/2026 17:07:19] AVATAR : Bonjour ! Comment puis-je vous aider aujourd'hui ?
+[04/01/2026 17:07:46] UTILISATEUR : Hello
+[04/01/2026 17:07:47] UTILISATEUR : Hello
+[04/01/2026 17:07:47] AVATAR : Hello! How can I assist you today?
+[04/01/2026 17:07:47] AVATAR : Hello! How can I assist you today?
+[04/01/2026 17:07:57] UTILISATEUR : I like to do a booking
+[04/01/2026 17:07:58] AVATAR : Please provide details for your booking, such as date and location.
+[04/01/2026 17:08:10] UTILISATEUR : Look at this so I didn't give it to specify a specification about
+[04/01/2026 17:08:11] AVATAR : Could you clarify what you need help with?
+[04/01/2026 17:08:12] UTILISATEUR : So I didn't give it to specify specification about downstairs
+[04/01/2026 17:08:12] AVATAR : Could you clarify what you mean by "specification about downstairs"?
+[04/01/2026 17:08:13] UTILISATEUR : I was just walking
+[04/01/2026 17:08:13] AVATAR : Where were you walking?
+[04/01/2026 17:08:14] UTILISATEUR : Open the app
+[04/01/2026 17:08:15] AVATAR : Please specify which app you would like to open.
+[04/01/2026 17:08:18] UTILISATEUR : Now he's working
+[04/01/2026 17:08:18] AVATAR : What is he working on?
+[04/01/2026 17:08:19] UTILISATEUR : Now he's working
+[04/01/2026 17:08:19] AVATAR : Who is he? What is he working on?
+[04/01/2026 17:08:20] UTILISATEUR : Open
+[04/01/2026 17:08:21] AVATAR : Could you please clarify what you would like to open?
+[04/01/2026 17:08:29] UTILISATEUR : What's up
+[04/01/2026 17:08:29] AVATAR : Not much, just here to help you! What do you need?
+[04/01/2026 17:08:30] UTILISATEUR : What's up
+[04/01/2026 17:08:30] AVATAR : Not much! How can I assist you today?
+[04/01/2026 17:08:38] UTILISATEUR : She's hearing what we said
+[04/01/2026 17:08:39] AVATAR : Elle entend ce que nous avons dit.
+[04/01/2026 17:08:48] UTILISATEUR : She is translated into French
+[04/01/2026 17:08:49] AVATAR : Elle.
+[04/01/2026 17:08:54] UTILISATEUR : Can you tell me please can you show me places to visit Montreal
+[04/01/2026 17:08:55] AVATAR : Sure! Visit Old Montreal, Mount Royal, Notre-Dame Basilica, and the Montreal Museum of Fine Arts.
+[04/01/2026 17:09:07] UTILISATEUR : Can you give me provide me more please
+[04/01/2026 17:09:08] AVATAR : Could you specify what you need more of?
+[04/01/2026 17:09:17] UTILISATEUR : I need more places to visit you know
+[04/01/2026 17:09:18] UTILISATEUR : I need more places to visit to know
+[04/01/2026 17:09:19] AVATAR : Sure! What type of places are you interested in?
+[04/01/2026 17:09:19] AVATAR : What type of places are you interested in?
+[04/01/2026 17:09:34] UTILISATEUR : Yeah I'm trying to do skin around Montreal can you show me places where I can do skiing
+[04/01/2026 17:09:35] AVATAR : Sure! Check out Mont Tremblant, Mount Saint-Sauveur, and Bromont.
+[04/01/2026 17:09:49] UTILISATEUR : OK thank you
+[04/01/2026 17:09:49] AVATAR : You're welcome!
+[04/01/2026 17:09:58] UTILISATEUR : So it's it's really good the computer is much more better because
+[04/01/2026 17:09:59] AVATAR : Could you clarify statement?
+[04/01/2026 17:10:02] UTILISATEUR : So can you can you speak now
+[04/01/2026 17:10:02] AVATAR : Yes, I can speak now. How can I assist you?
+[04/01/2026 17:10:05] UTILISATEUR : Oh yeah
+[04/01/2026 17:10:06] AVATAR : Oh yeah! How can I assist you today?
+[04/01/2026 17:10:15] UTILISATEUR : So do you know about can achieve the view more
+[04/01/2026 17:10:16] AVATAR : Could you clarify what you mean by "view more"?
+[04/01/2026 17:10:22] UTILISATEUR : No
+[04/01/2026 17:10:22] AVATAR : D'accord.
+[04/01/2026 17:10:23] UTILISATEUR : No
+[04/01/2026 17:10:24] AVATAR : D'accord. Que puis-je faire pour vous ?
+[04/01/2026 17:10:24] UTILISATEUR : Host of view
+[04/01/2026 17:10:25] AVATAR : Could you clarify what you mean by "Host of view"?
+[04/01/2026 17:10:25] UTILISATEUR : No
+[04/01/2026 17:10:26] AVATAR : D'accord. Que puis-je faire pour vous ?
+[04/01/2026 17:10:27] UTILISATEUR : View
+[04/01/2026 17:10:27] AVATAR : Quel type de vue cherches-tu ?
+[04/01/2026 17:10:39] UTILISATEUR : Achieve the real
+[04/01/2026 17:10:40] AVATAR : Could you clarify what you mean by "achieve the real"?
+[04/01/2026 17:10:51] UTILISATEUR : It's good it's good
+[04/01/2026 17:10:51] AVATAR : I'm glad to hear that!
+[04/01/2026 17:10:56] UTILISATEUR : Is the flu
+[04/01/2026 17:10:56] AVATAR : Yes, the flu is a contagious respiratory illness caused by influenza viruses.
+[04/01/2026 17:11:00] UTILISATEUR : From the country to the iPad
+[04/01/2026 17:11:00] AVATAR : Could you clarify your question or topic?
+[04/01/2026 17:11:05] UTILISATEUR : Scandal
+[04/01/2026 17:11:05] AVATAR : Quel type de scandale t'intéresse ? Film, politique, ou autre ?
+[04/01/2026 17:11:09] UTILISATEUR : I
+[04/01/2026 18:49:59] UTILISATEUR : bonjour ça va vous allez bien
+[04/01/2026 18:50:00] UTILISATEUR : bonjour ça va vous allez bien
+[04/01/2026 18:50:00] AVATAR : Bonjour ! Je vais bien,. Et vous ?
+[04/01/2026 18:50:01] AVATAR : Bonjour ! Je vais bien, merci. Et vous ?
+[04/01/2026 19:03:42] UTILISATEUR : bonjour comment allez-vous
+[04/01/2026 19:03:43] UTILISATEUR : bonjour comment allez-vous
+[04/01/2026 19:03:43] AVATAR : Salut ! Ça va super, et toi ? C'est l'fun de te voir ici !
+[04/01/2026 19:03:44] AVATAR : Salut ! Ça va super bien, merci ! Et toi ?
+[04/01/2026 19:04:00] UTILISATEUR : oui ça va très bien
+[04/01/2026 19:04:00] AVATAR : Salut ! C'est l'fun d'entendre ça ! Comment puis-je t'aider aujourd'hui ?
+[04/01/2026 19:04:13] UTILISATEUR : est-ce que tu pourras me dire si tu m'entends tu m'écoutes très bien
+[04/01/2026 19:04:14] UTILISATEUR : est-ce que tu pourras me dire si tu m'entends tu m'écoutes très bien
+[04/01/2026 19:04:14] AVATAR : Salut ! Oui, je t’entends très bien, pas de trouble !
+[04/01/2026 19:04:15] AVATAR : Salut ! Oui, je t’entends très bien, pas de trouble !
+[04/01/2026 19:11:18] UTILISATEUR : bonjour comment allez-vous est-ce que vous arrivez à m'entendre
+[04/01/2026 19:11:18] AVATAR : Salut ! Oui, je t'entends bien. Comment ça va ?
+[04/01/2026 19:11:27] UTILISATEUR : ça va très bien et toi tu vas bien
+[04/01/2026 19:11:29] UTILISATEUR : ça va très bien et toi tu vas bien
+[04/01/2026 19:11:29] AVATAR : Salut ! Moi aussi, ça va l'fun ! Quoi de neuf ?
+[04/01/2026 19:11:30] AVATAR : Salut ! Moi aussi, ça va l'fun, merci !
+[04/01/2026 19:11:44] UTILISATEUR : est-ce que tu peux me dire tu peux me dire des endroits visiter ici à Montréal
+[04/01/2026 19:11:46] AVATAR : Bien sûr ! Visite le Vieux-Montréal, le parc Mont-Royal et le marché Jean-Talon. C'est l'fun !
+[04/01/2026 19:11:59] UTILISATEUR : est-ce que tu pourras me citer d'autres endroits visiter
+[04/01/2026 19:12:01] AVATAR : Salut ! Bien sûr, il y a le Vieux-Montréal, le Mont-Royal et le Parc Jean-Drapeau. C'est l'fun !
+[04/01/2026 19:23:38] UTILISATEUR : bonjour Est-ce que vous arrivez bien mon peintre
+[04/01/2026 19:23:39] UTILISATEUR : bonjour Est-ce que vous arrivez bien mon peintre
+[04/01/2026 19:26:25] UTILISATEUR : bonjour Est-ce que vous arrivez bien longtemps
+[04/01/2026 19:26:26] UTILISATEUR : bonjour Est-ce que vous arrivez bien longtemps
+[04/01/2026 19:29:17] UTILISATEUR : bonjour Est-ce que vous allez bien vous arrivez bien m'entendre
+[04/01/2026 19:29:18] AVATAR : Salut ! Oui, tout va bien, merci ! Et toi ?
+[04/01/2026 19:29:30] UTILISATEUR : ça va très bien est-ce que vous pouvez m'indiquer les endroits qu'on pourra visiter ici à Montréal
+[04/01/2026 19:29:31] AVATAR : Salut ! Bien sûr, voici quelques incontournables : Vieux-Montréal, Parc Mont-Royal, et le Musée des beaux-arts. C'est l'fun !
+[04/01/2026 19:29:45] UTILISATEUR : est-ce que vous pouvez me fournir d'autres endroits
+[04/01/2026 19:29:46] AVATAR : Salut ! Pas de trouble, je peux te recommander des lieux. Qu'est-ce que tu cherches ?
+[04/01/2026 19:29:57] UTILISATEUR : je veux d'autres endroits aussi
+[04/01/2026 19:29:58] AVATAR : Salut ! Pas de trouble, je peux te conseiller d’autres lieux à explorer !
+[04/01/2026 19:30:07] UTILISATEUR : dites-moi quels sont ces deux
+[04/01/2026 19:30:08] AVATAR : Salut ! Peux-tu préciser de quels deux tu parles ? C'est l'fun d'aider !
+[04/01/2026 19:30:19] UTILISATEUR : des lieux à visiter ici à Montréal
+[04/01/2026 19:30:20] AVATAR : Salut ! Visite le Vieux-Montréal, le Mont-Royal et le Quartier des spectacles, c'est l'fun !
+[04/01/2026 19:30:32] UTILISATEUR : est-ce que je peux savoir d'autres endroits à visiter à Montréal
+[04/01/2026 19:30:33] AVATAR : Salut ! Bien sûr ! Le Vieux-Montréal et le Mont-Royal sont incontournables !
+[04/01/2026 19:36:08] UTILISATEUR : bonjour Est-ce que vous arrivez à mon tendre
+[04/01/2026 19:36:08] AVATAR : Salut ! Je suis ici pour t'aider. Que souhaites-tu savoir ?
+[04/01/2026 19:36:20] UTILISATEUR : est-ce que vous tu pourras m'indiquer des endroits visiter c'est à Montréal
+[04/01/2026 19:36:21] AVATAR : Salut ! Bien sûr, il y a le Vieux-Montréal, le Mont-Royal et le Jardin Botanique. Tu veux d'autres suggestions ?
+[04/01/2026 19:36:32] UTILISATEUR : oui bien sûr
+[04/01/2026 19:36:32] AVATAR : Salut ! Comment puis-je t'aider aujourd'hui ?
+[04/01/2026 19:36:40] UTILISATEUR : je viens pour d'autres suggestions
+[04/01/2026 19:36:41] AVATAR : Salut ! Quelles activités ou endroits cherches-tu exactement ? Je suis là pour t'aider !
+[04/01/2026 19:36:56] UTILISATEUR : ces endroits visiter plus tu peux me suggérer plus d'endroits publicitaires à Montréal
+[04/01/2026 19:36:57] AVATAR : Salut ! Je te suggère le Vieux-Montréal, le Plateau-Mont-Royal et le Parc du Mont-Royal. Profite bien !
+[04/01/2026 19:37:08] UTILISATEUR : est-ce qu'il y a pas d'autres endroits visiter
+[04/01/2026 19:37:09] AVATAR : Salut ! Oui, il y a plein d'autres endroits à visiter, comme le vieux port, le Mont-Royal et le musée des beaux-arts.
+[04/01/2026 19:37:22] UTILISATEUR : quoi d'autre aussi
+[04/01/2026 19:37:23] AVATAR : Salut ! Peux-tu préciser ce que tu aimerais savoir d'autre ?
+[04/01/2026 19:37:32] UTILISATEUR : j'aimerais savoir d'autres endroits visiter
+[04/01/2026 19:37:33] UTILISATEUR : j'aimerais savoir d'autres endroits visiter
+[04/01/2026 19:37:34] AVATAR : Salut ! Tu peux visiter le Vieux-Montréal, le Parc Mont-Royal et le Musée des beaux-arts. Des préférences ?
+[04/01/2026 19:37:34] AVATAR : Salut ! Je te recommande le Vieux-Montréal, le Parc Jean-Drapeau et le Mont Royal. Tu vas adorer !
+[04/01/2026 19:49:16] UTILISATEUR : bonjour vous allez bien
+[04/01/2026 19:49:17] AVATAR : Salut ! Oui, ça va super bien, merci ! Et toi ?
+[04/01/2026 19:49:27] UTILISATEUR : oui ça va est-ce que tu peux m'indiquer les endroits visiter à Montréal
+[04/01/2026 19:49:28] UTILISATEUR : oui ça va est-ce que tu peux m'indiquer les endroits visiter à Montréal
+[04/01/2026 19:49:28] AVATAR : Salut ! Bien sûr, voici quelques incontournables : le Vieux-Montréal, le Mont Royal, le musée des beaux-arts et le marché Jean-Talon.
+[04/01/2026 19:49:29] AVATAR : Salut ! Bien sûr ! Tu peux visiter le Vieux-Montréal, le Mont Royal, le Musée des beaux-arts et le Parc Jean-Drapeau.
+[04/01/2026 20:54:11] UTILISATEUR : bonjour ça va bien est-ce que vous arrivez bien mon tendre
+[04/01/2026 20:54:13] AVATAR : Salut ! Oui, ça va bien, merci ! Et toi, comment ça va ?
+[04/01/2026 20:54:26] UTILISATEUR : oui ça va très bien est-ce que tu peux me donner des indications par rapport à visiter ici à Montréal
+[04/01/2026 20:54:27] AVATAR : Salut ! Bien sûr, il y a plein de choses à voir à Montréal ! Que veux-tu visiter en particulier ?
+[04/01/2026 20:54:40] UTILISATEUR : donne-moi des propositions des endroits à voir
+[04/01/2026 20:54:42] UTILISATEUR : donne-moi des propositions des endroits à voir
+[04/01/2026 20:54:42] AVATAR : Salut ! Voici quelques incontournables à Montréal : le Vieux-Montréal, le Mont-Royal, le musée des beaux-arts et le Parc Jean-Drapeau.
+[04/01/2026 20:54:43] AVATAR : Salut ! Voici quelques incontournables à Montréal : le Vieux-Montréal, le Mont-Royal, le Musée des beaux-arts et le Parc Jean-Drapeau.
+[04/01/2026 20:55:05] UTILISATEUR : est-ce que tu pourras me donner d'autres
+[04/01/2026 20:55:06] AVATAR : Salut ! Peux-tu préciser ce que tu aimerais que je te donne d'autre ?
+[04/01/2026 21:41:22] UTILISATEUR : bonjour ça va bien est-ce que vous arrivez bien mon compte
+[04/01/2026 21:41:23] UTILISATEUR : bonjour ça va bien est-ce que vous arrivez bien mon compte
+[04/01/2026 21:41:23] AVATAR : Salut ! Oui, tout est en ordre avec ton compte. Comment puis-je t'aider aujourd'hui ?
+[04/01/2026 21:41:25] AVATAR : Salut ! Oui, tout va bien ici. Votre compte est-il en ordre ?
+[04/01/2026 21:41:39] UTILISATEUR : mais non j'ai posé la question si vous arrivez à m'entendre
+[04/01/2026 21:41:40] AVATAR : Oui, je t'entends très bien ! Que puis-je faire pour toi ?
+[04/01/2026 21:41:51] UTILISATEUR : est-ce que tu pourrais m'indiquer des endroits que je pourrais visiter à Montréal
+[04/01/2026 21:41:53] AVATAR : Bien sûr ! Tu peux visiter le Vieux-Montréal, le Mont Royal, le Musée des beaux-arts et le marché Jean-Talon.
+[04/01/2026 21:42:04] UTILISATEUR : c'est quoi d'autre
+[04/01/2026 21:42:05] UTILISATEUR : c'est quoi d'autre
+[04/01/2026 21:42:06] AVATAR : Peux-tu préciser ta question ? Je suis là pour t'aider avec des infos sur l'auberge ou Montréal !
+[04/01/2026 21:42:06] AVATAR : Peux-tu préciser ta question? Je suis là pour aider!
+[04/01/2026 21:42:20] UTILISATEUR : quoi d'autre je peux visiter
+[04/01/2026 21:42:21] AVATAR : Il y a le Vieux-Montréal, le Mont-Royal, et le marché Jean-Talon à découvrir !
+[04/01/2026 21:42:33] UTILISATEUR : et quoi d'autre à part ça ce que tu viens de dire
+[04/01/2026 21:42:34] UTILISATEUR : et quoi d'autre à part ça ce que tu viens de dire
+[04/01/2026 21:42:35] AVATAR : On offre plein d'activités, comme des visites guidées et des soirées jeux. Ça t'intéresse ?
+[04/01/2026 21:42:35] AVATAR : On a plein d'activités, comme des visites guidées, des soirées jeux et des concerts! Ça t'intéresse?
+[04/01/2026 22:01:55] UTILISATEUR : bonjour ça va bien est-ce que vous arrivez bien montante
+[04/01/2026 22:01:57] AVATAR : Bienvenue à l'auberge ! Oui, tout va bien, merci. Et vous, comment ça se passe ?
+[04/01/2026 22:02:14] UTILISATEUR : oui ça va très bien est-ce que vous pouvez nous indiquer des endroits visiter ici à Montréal
+[04/01/2026 22:02:15] AVATAR : Bien sûr ! Ne manque pas le Vieux-Montréal, le Mont-Royal et le Musée des beaux-arts.
+[04/01/2026 22:02:26] UTILISATEUR : est-ce qu'il y a d'autres endroits
+[04/01/2026 22:02:27] AVATAR : Oui, il y a plein d'endroits à visiter à Montréal ! Qu'est-ce qui t'intéresse ?
+[04/01/2026 22:02:38] UTILISATEUR : des endroits que vous venez de me dire
+[04/01/2026 22:02:39] AVATAR : Peux-tu me rappeler de quels endroits tu parles ? Je vais t'aider avec ça !
+[04/01/2026 22:02:51] UTILISATEUR : canoë
+[04/01/2026 22:02:52] AVATAR : As-tu besoin d'informations sur le canoë dans la région ?
+[04/01/2026 22:03:01] UTILISATEUR : est-ce qu'on peut parler anglais
+[04/01/2026 22:03:01] AVATAR : Bien sûr, je peux répondre en anglais si tu préfères !
+[04/01/2026 22:03:08] UTILISATEUR : appelle
+[04/01/2026 22:03:10] AVATAR : Je suis ici pour t'aider ! Que puis-je faire pour toi ?
+[04/01/2026 22:03:17] UTILISATEUR : salut Google
+[04/01/2026 22:03:18] AVATAR : Bienvenue à l'auberge ! Comment puis-je t'aider aujourd'hui ?
+[04/01/2026 22:03:26] UTILISATEUR : camion
+[04/01/2026 22:03:27] AVATAR : Quel type de camion cherches-tu?
+[04/01/2026 22:03:36] UTILISATEUR : camion de développer ses souvenirs
+[04/01/2026 22:03:37] AVATAR : Peux-tu préciser ce que tu veux dire par là ?
+[04/01/2026 22:03:47] UTILISATEUR : can you give me places to visit here once again
+[04/01/2026 22:03:49] AVATAR : Bien sûr ! Le Vieux-Montréal, le Mont-Royal et le Plateau-Mont-Royal sont des incontournables.
+[04/01/2026 22:03:59] UTILISATEUR : salut speaker
+[04/01/2026 22:04:01] AVATAR : Bienvenue à l'auberge ! Comment puis-je t'aider aujourd'hui ?
