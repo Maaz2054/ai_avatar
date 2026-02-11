@@ -12,7 +12,7 @@ export async function POST(req: Request) {
 
   try {
     const body = await req.json();
-    const { text, voice_id = "c6SfcYrb2t09NHXiT80T" } = body;
+    const { text, voice_id = "4ODIZFF9qwSqogLRcDPS" } = body;
 
     if (!text) {
       return NextResponse.json(
