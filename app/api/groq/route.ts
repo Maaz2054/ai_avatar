@@ -53,7 +53,7 @@ MANAGER: Sabina
 
 RESPONSE RULES:
 - Answer in English only
-- MAX 2 short sentences (under 30 words total)
+- MAX 40 words total (use as many sentences as needed)
 - Answer ONLY the guest's latest question
 - Be direct, friendly, and helpful
 - Start immediately with the answer`,
@@ -89,7 +89,7 @@ GERENTE: Sabina
 
 REGLAS DE RESPUESTA:
 - Responde solo en español
-- MÁXIMO 2 frases cortas (menos de 30 palabras total)
+- MÁXIMO 40 palabras total (usa las frases que necesites)
 - Responde SOLO la última pregunta del huésped
 - Sé directo, amable y útil
 - Empieza inmediatamente con la respuesta`,
@@ -125,7 +125,7 @@ GÉRANTE: Sabina
 
 RÈGLES DE RÉPONSE:
 - Réponds en français uniquement
-- MAX 2 phrases courtes (moins de 30 mots total)
+- MAXIMUM 40 mots total (utilise autant de phrases que nécessaire)
 - Réponds UNIQUEMENT à la dernière question du client
 - Sois direct, amical et utile
 - Commence immédiatement par la réponse`
