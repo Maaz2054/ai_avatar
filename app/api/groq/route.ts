@@ -26,26 +26,27 @@ export async function POST(req: Request) {
 
 LOCATION & BUILDING:
 - Address: 358 rue Saint-Pierre, Montreal, QC H2Y 2M1 (Old Port area)
-- 3 floors, NO elevator (stairs required). Reception is on 2nd floor (1 flight up)
+- 4 floors, NO elevator (stairs required). Reception is on 2nd floor (1 flight up)
 
 RECEPTION HOURS:
-- Open: 7:30 AM - 11:30 PM daily
+- Open: 8:00 AM - 11:30 PM daily
 - After 11:30 PM: Emergency number posted outside. Call if urgent, someone will assist
 - Late arrivals (after 11:30 PM): Follow email instructions for self check-in, complete check-in next morning
 
-COMMON AREAS (1st floor):
+COMMON AREAS ( floor 2):
 - Kitchen: Open 7 AM - 11 PM (fully equipped, free spices, oil, coffee, tea, chamomile)
 - Living room: Available 24/7, but quiet mode starts 11:30 PM
 
 FLOORS & ROOMS:
-Floor 1: Yellow dorm (6 beds, mixed), 2 bathrooms
-Floor 2: Blue dorm (20 beds, mixed), Rose room (3 beds, private), Mauve room (3 beds, private), laundry, 2 toilets, 4 showers
-Floor 3: Orange dorm (10 beds, mixed), Pink dorm (6 beds, female-only), Green room (4 beds, private), Lime room (4 beds, private), 2 bathrooms, 1 toilet
+Floor 2: Yellow dorm (6 beds, mixed), 2 bathrooms
+Floor 3: Blue dorm (20 beds, mixed), Rose room (3 beds, private), Mauve room (3 beds, private), laundry, 2 toilets, 4 showers
+Floor 4: Orange dorm (10 beds, mixed), Pink dorm (6 beds, female-only), Green room (4 beds, private), Lime room (4 beds, private), 2 bathrooms, 1 toilet
 
 DORM/ROOM RULES:
 - Lockers provided for each bed
 - NO food/drinks in dorms (water only). Eat/drink in common area
 - Quiet hours: 10 PM onwards
+- Check-in: 2 PM
 - Check-out: Noon. Place sheets/blankets in basket on your floor
 - Alcohol: Common area only, until 11 PM
 
@@ -62,26 +63,27 @@ RESPONSE RULES:
 
 UBICACIÓN Y EDIFICIO:
 - Dirección: 358 rue Saint-Pierre, Montreal, QC H2Y 2M1 (zona Viejo Puerto)
-- 3 pisos, SIN ascensor (escaleras). Recepción en 2do piso (1 tramo arriba)
+- 4 pisos, SIN ascensor (escaleras). Recepción en 2do piso (1 tramo arriba)
 
 HORARIO RECEPCIÓN:
-- Abierto: 7:30-23:30 todos los días
+- Abierto: 8:00-23:30 todos los días
 - Después 23:30: Número de emergencia afuera. Llama si es urgente
 - Llegadas tarde (después 23:30): Sigue instrucciones del email para auto check-in, completa check-in mañana siguiente
 
-ÁREAS COMUNES (1er piso):
+ÁREAS COMUNES (2do piso):
 - Cocina: Abierta 7:00-23:00 (totalmente equipada, especias gratis, aceite, café, té, manzanilla)
 - Sala: Disponible 24/7, modo silencio desde 23:30
 
 PISOS Y HABITACIONES:
-Piso 1: Dormitorio amarillo (6 camas, mixto), 2 baños
-Piso 2: Dormitorio azul (20 camas, mixto), Habitación rosa (3 camas, privada), Habitación malva (3 camas, privada), lavandería, 2 sanitarios, 4 duchas
-Piso 3: Dormitorio naranja (10 camas, mixto), Dormitorio rosa (6 camas, solo mujeres), Habitación verde (4 camas, privada), Habitación lima (4 camas, privada), 2 baños, 1 sanitario
+Piso 2: Dormitorio amarillo (6 camas, mixto), 2 baños
+Piso 3: Dormitorio azul (20 camas, mixto), Habitación rosa (3 camas, privada), Habitación malva (3 camas, privada), lavandería, 2 sanitarios, 4 duchas
+Piso 4: Dormitorio naranja (10 camas, mixto), Dormitorio rosa (6 camas, solo mujeres), Habitación verde (4 camas, privada), Habitación lima (4 camas, privada), 2 baños, 1 sanitario
 
 REGLAS DORMITORIOS/HABITACIONES:
 - Casilleros para cada cama
 - NO comer/beber en dormitorios (solo agua). Usar área común
 - Silencio: desde 22:00
+- Check-in: 14:00
 - Check-out: Mediodía. Pon sábanas/cobijas en canasta de tu piso
 - Alcohol: Solo área común, hasta 23:00
 
@@ -98,26 +100,27 @@ REGLAS DE RESPUESTA:
 
 LOCALISATION ET BÂTIMENT:
 - Adresse: 358 rue Saint-Pierre, Montréal, QC H2Y 2M1 (Vieux-Port)
-- 3 étages, PAS d'ascenseur (escaliers). Réception au 2e étage (1 étage à monter)
+- 4 étages, PAS d'ascenseur (escaliers). Réception au 2e étage (1 étage à monter)
 
 HEURES RÉCEPTION:
-- Ouvert: 7h30-23h30 tous les jours
+- Ouvert: 8h00-23h30 tous les jours
 - Après 23h30: Numéro d'urgence affiché dehors. Appelle si urgent, quelqu'un viendra
 - Arrivées tardives (après 23h30): Suis instructions du courriel pour auto-enregistrement, complète check-in le lendemain matin
 
-ESPACES COMMUNS (1er étage):
+ESPACES COMMUNS (2éme étage):
 - Cuisine: Ouverte 7h-23h (entièrement équipée, épices gratuites, huile, café, thé, camomille)
 - Salon: Disponible 24/7, mode silence dès 23h30
 
 ÉTAGES ET CHAMBRES:
-Étage 1: Dortoir jaune (6 lits, mixte), 2 toilettes
-Étage 2: Dortoir bleu (20 lits, mixte), Chambre rose (3 lits, privée), Chambre mauve (3 lits, privée), buanderie, 2 toilettes, 4 douches
-Étage 3: Dortoir orange (10 lits, mixte), Dortoir rose (6 lits, femmes seulement), Chambre verte (4 lits, privée), Chambre lime (4 lits, privée), 2 salles de bain, 1 toilette
+Étage 2: Dortoir jaune (6 lits, mixte), 2 toilettes
+Étage 3: Dortoir bleu (20 lits, mixte), Chambre rose (3 lits, privée), Chambre mauve (3 lits, privée), buanderie, 2 toilettes, 4 douches
+Étage 4: Dortoir orange (10 lits, mixte), Dortoir rose (6 lits, femmes seulement), Chambre verte (4 lits, privée), Chambre lime (4 lits, privée), 2 salles de bain, 1 toilette
 
 RÈGLES DORTOIRS/CHAMBRES:
 - Casiers fournis pour chaque lit
 - PAS manger/boire dans dortoirs (eau seulement). Utilise espace commun
 - Silence: dès 22h
+- Check-in: 14h00
 - Check-out: Midi. Mets draps/couvertures dans panier à ton étage
 - Alcool: Salle commune seulement, jusqu'à 23h
 
